@@ -1,0 +1,20 @@
+* {  margin: 0; /* margem */
+  padding: 0;}
+
+body {  height: 100vh;
+  color: white;
+}
+
+:root {   font-size: 62.5%;}
+
+body,
+input,
+button,
+textarea {
+  /* font-size: 18px;
+    font-weight: 400;
+    line-height: 1;
+    font-family: "Nunit", sans-serif; */
+
+  font: 400 18px/1 "Nunito", sans-serif;
+}
